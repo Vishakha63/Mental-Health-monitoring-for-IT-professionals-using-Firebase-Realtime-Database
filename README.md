@@ -63,5 +63,5 @@ This project aims to **enhance employee well-being**, reduce mental health-relat
 
 ## Screenshots
 
-![Clinicians Dashboard](/mnt/data/ff8b4b3f-898d-4be1-a321-ff997afe0c10.png)  
-![Doctors Dashboard](/mnt/data/6185017a-284e-4679-95dc-db59bf052467.png)
+![Clinicians Dashboard](C:/Users/visha/Downloads/Clinician's webpage.png)  
+![Doctors Dashboard](C:/Users/visha/Downloads/Doctor's webpage.png)
