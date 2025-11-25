@@ -55,13 +55,4 @@ This project aims to **enhance employee well-being**, reduce mental health-relat
 
 ---
 
-## Authors
 
-- Vishakha Ramteke
-
----
-
-## Screenshots
-
-![Clinicians Dashboard](/Clinician's webpage.png)  
-![Doctors Dashboard](/Doctor's webpage.png)
